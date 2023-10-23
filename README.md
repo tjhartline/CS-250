@@ -1,4 +1,5 @@
-# CS-250
+# CS-250 (SDLC)
+# Software Development Lifecycle
 This is a repository containing my work for CS-250
 
 README
